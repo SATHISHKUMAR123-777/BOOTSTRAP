@@ -1,0 +1,12 @@
+#grad {
+    background-image: linear-gradient(to right, orange ,pink);
+  }
+  .d{
+  order: 2;
+  }
+  .d1{
+    order: 1;
+  }
+  .d2{
+     order: 3;
+  }

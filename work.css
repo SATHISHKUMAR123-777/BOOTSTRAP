@@ -1,0 +1,15 @@
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.d{
+    color: red;
+}
+/* @media screen and (min-width:576px) and (max-width:1200px){
+    .w{
+        margin-left: 160px;
+        width: 100px;
+        
+    }
+} */
