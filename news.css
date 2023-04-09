@@ -1,0 +1,17 @@
+.bg{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fs{
+    margin-top: 450px;
+    border-radius: 20px 20px 0 0;
+    font-family: Roboto;
+}
+.bv{
+    color: #7b8794;
+}
+button{
+    color: #ffffff;
+    border: 1px solid white;
+}

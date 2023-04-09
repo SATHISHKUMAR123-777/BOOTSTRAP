@@ -1,0 +1,17 @@
+.bg{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+     background-size: cover;  
+    background-repeat: no-repeat;
+}
+.ds{
+    background-color: #f6c56e;
+    margin-top: 500px;
+    border-radius: 25px;
+    padding: 20px;
+}
+button{
+    border: 1px solid #ffffff  ;
+    background-color:#ffffff ;
+    color: #323f4b;
+     border-radius: 5px;
+} 

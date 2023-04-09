@@ -1,0 +1,22 @@
+.bd{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ds{
+   margin-top: 500px;
+   padding: 20px;
+   border-radius: 20px;
+}
+button{
+    color: #171f46    ;
+   color: #ffffff   ;
+}
+.hs{
+    font-family: Bree Serif;
+    font-family: Roboto;
+    color: #323f4b ;
+}
+.hs1{
+    color: #5752ab;
+}

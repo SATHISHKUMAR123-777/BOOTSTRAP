@@ -1,0 +1,23 @@
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+.re{
+    background-color: #000000e6 ;
+    border-radius: 25px;
+}
+.gf{
+    color: #ffffff;
+    font-family: Bree Serif;
+}
+.fd{
+    color: #ffffff;
+    font-family: Roboto;
+}
+.bu{
+    background-color: #ffffff ;
+}
+.gd{
+    margin-top: 650px;
+}

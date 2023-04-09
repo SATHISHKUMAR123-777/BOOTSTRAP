@@ -1,0 +1,61 @@
+.bg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    font-family: Roboto;
+}
+.h11{
+   color: #ffffff  ; 
+   background-color: #323f4b   ;   
+}
+.hs{
+    color: #ffffff  ; 
+    background-color: #47a3f3;
+    border-radius: 10px 10px 0px 10px;
+    padding: 10px;
+
+}
+.hs1{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color:#52606d;
+    border-radius: 10px 10px 10px 0px;
+    padding: 10px;
+}
+.hs2{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color: #47a3f3;
+    border-radius: 10px 10px 0px 10px;
+    padding: 10px;
+}
+.hs3{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color:#52606d;
+    border-radius: 10px 10px 10px 0px;
+    padding: 10px;
+}
+.hs4{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color: #47a3f3;
+    border-radius: 10px 10px 0px 10px;
+    padding: 10px;
+}
+.hs5{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color:#52606d;
+    border-radius: 10px 10px 10px 0px;
+    padding: 10px;
+}
+.hs6{
+    color: #ffffff  ; 
+    margin-top: 20px;
+    background-color: #47a3f3;
+    border-radius: 10px 10px 0px 10px;
+    padding: 10px;
+}

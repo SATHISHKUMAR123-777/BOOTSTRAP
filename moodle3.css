@@ -1,0 +1,24 @@
+.bg{
+    background-image: url("https://media.istockphoto.com/id/519330110/photo/taj-mahal-agra-india-monument-of-love-in-blue-sky.jpg?s=612x612&w=0&k=20&c=Uma6Q7KduznA6jUKcSquFP1iHHiw8UXcZEYVLONrmaQ=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.d{
+     margin: 30px;
+     border-radius: 15px;
+}
+.child-container{
+    padding: 20px;
+}
+.bg-cs{
+    padding: 20px;
+
+}
+.ns{
+    margin: 30px;
+    border-radius: 15px;
+}
+.s1{
+    margin-top: 10px;
+    margin-left: 40px;
+}

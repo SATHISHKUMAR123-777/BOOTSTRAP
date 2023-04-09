@@ -1,0 +1,32 @@
+.col{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 100px;
+} 
+.main{
+      margin-top: 200px;
+    
+}
+.main1{
+    margin-top: 10px;
+}
+.gs{
+    border: 2px solid yellow; 
+}
+/* .bg-container{
+    margin-left: 330px;
+    margin-top: 50px;
+} */
+.sa{
+   
+}
+/* {
+    background-color: blue;
+} */
+.ls{
+    color: white;
+}
+.cl{
+    height: 100px;
+}
